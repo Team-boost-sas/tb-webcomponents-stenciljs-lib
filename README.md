@@ -1,1 +1,1 @@
-# tb-of-web-ui
+# tb-webcomponents-stenciljs-lib
